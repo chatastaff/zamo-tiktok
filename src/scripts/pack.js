@@ -17,7 +17,7 @@ create(
         file: 'TikTokBot.tar.gz',
         sync: true,
         gzip: true,
-        prefix: 'TikTokBot',
+        prefix: '+',
         filter
     },
     [ '.' ]
