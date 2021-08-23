@@ -22,7 +22,7 @@ npm install OR yarn install
 
 You can easilly deploy to Heroku with the following button
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/chatastaff/tek/tree/docker-and-heroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https:git clone --depth 1 https://github.com/juuyokka/TikTokBot.git/tree/docker-and-heroku)
 
 ### Run on local machine
 
