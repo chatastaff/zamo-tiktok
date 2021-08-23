@@ -5,7 +5,7 @@
   "main": "./dist/index.js",
   "repository": {
     "type" : "git",
-    "url" : "https://github.com/juuyokka/TikTokBot.git"
+    "url" : "https://github.com/chatastaff/tek.git"
   },
   "scripts": {
     "start": "node .",
