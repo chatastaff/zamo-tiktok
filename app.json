@@ -2,7 +2,7 @@
   "name": "TikTokBot",
   "description": "Discord bot that automatically sends TikTok videos from links in chat",
   "keywords": [ "Discord.js", "Docker", "Puppeteer" ],
-  "repository": "https://github.com/juuyokka/TikTokBot",
+  "repository": "https://github.com/chatastaff/tek",
   "env": {
     "TOKEN": {
       "description": "Your Discord bot token"
